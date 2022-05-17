@@ -1,0 +1,24 @@
+{
+  "name": "duya",
+  "version": "0.0.1",
+  "description": "duya tool",
+  "main": "index.js",
+  "bin": {
+    "duya": "bin/duya"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "duya"
+  ],
+  "author": "dyanfee@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dyanfee/duya.git"
+  },
+  "dependencies": {
+    "commander": "^9.2.0"
+  }
+}

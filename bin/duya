@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var { Command } = require('commander')
+var program = new Command()
+
+console.log("hello duya")
